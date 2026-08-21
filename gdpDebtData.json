@@ -26,7 +26,7 @@
     "growthPercent": 0.7,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -55,7 +55,7 @@
     "growthPercent": 3,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -84,7 +84,7 @@
     "growthPercent": 3.4,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -113,7 +113,7 @@
     "growthPercent": 3.8,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -142,7 +142,7 @@
     "growthPercent": 2.1,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -171,7 +171,7 @@
     "growthPercent": 2.3,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -200,7 +200,7 @@
     "growthPercent": 2.6,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -229,7 +229,7 @@
     "growthPercent": 3.5,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -258,7 +258,7 @@
     "growthPercent": 5.3,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -287,7 +287,7 @@
     "growthPercent": 2.3,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Oceania",
@@ -316,7 +316,7 @@
     "growthPercent": 2,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -345,7 +345,7 @@
     "growthPercent": 0.7,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -374,7 +374,7 @@
     "growthPercent": 2.2,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -403,7 +403,7 @@
     "growthPercent": -0.5,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -432,7 +432,7 @@
     "growthPercent": 4.7,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -461,7 +461,7 @@
     "growthPercent": 2.5,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -490,7 +490,7 @@
     "growthPercent": 1.2,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -519,7 +519,7 @@
     "growthPercent": 0.7,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -548,7 +548,7 @@
     "growthPercent": 2.2,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -577,7 +577,7 @@
     "growthPercent": 7,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -606,44 +606,36 @@
     "growthPercent": 7.5,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
     "code": "bo",
     "country": "Bolivia",
-
     "gdpCurrentYear": 64.25,
     "gdpNextYear": 80.743,
     "gdpDiff": 16.493,
-
     "debtRatioCurrentYear": 84.8,
     "debtRatioNextYear": 102.7,
-
     "debtCurrentYear": 54.484,
     "debtNextYear": 82.9231,
     "debtDiff": 28.4391,
-
     "debtPcCurrentYear": 4330.3374,
     "debtPcNextYear": 6504.1615,
     "debtPcDiff": 2173.824,
-
     "gdpPcCurrentYear": 5106.53,
     "gdpPcNextYear": 6333.163,
     "gdpPcDiff": 1226.633,
-
     "gdpPppCurrentYear": 162.652,
     "gdpPppNextYear": 161.816,
     "gdpPppDiff": -0.836,
-
     "gdpPppPcCurrentYear": 12927.495,
     "gdpPppPcNextYear": 12692.146,
     "gdpPppPcDiff": -235.349,
-    
     "growthPercent": -3.3,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -672,7 +664,7 @@
     "growthPercent": 2.2,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -701,7 +693,7 @@
     "growthPercent": 4.7,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -730,7 +722,7 @@
     "growthPercent": 1.9,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -759,7 +751,7 @@
     "growthPercent": 2.6,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -788,7 +780,7 @@
     "growthPercent": 2.8,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -817,7 +809,7 @@
     "growthPercent": 4.9,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -846,7 +838,7 @@
     "growthPercent": 3.8,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -875,7 +867,7 @@
     "growthPercent": 4.8,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -904,7 +896,7 @@
     "growthPercent": 4,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -933,7 +925,7 @@
     "growthPercent": 3.3,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -962,7 +954,7 @@
     "growthPercent": 1.5,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -991,7 +983,7 @@
     "growthPercent": 2.6,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -1020,7 +1012,7 @@
     "growthPercent": 5.2,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -1049,7 +1041,7 @@
     "growthPercent": 2.4,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -1078,7 +1070,7 @@
     "growthPercent": 4.4,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -1107,7 +1099,7 @@
     "growthPercent": 2.3,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -1136,7 +1128,7 @@
     "growthPercent": 4.1,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -1165,7 +1157,7 @@
     "growthPercent": 5.9,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -1194,7 +1186,7 @@
     "growthPercent": 3.6,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -1223,7 +1215,7 @@
     "growthPercent": 6.2,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -1252,7 +1244,7 @@
     "growthPercent": 2.6,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -1281,7 +1273,7 @@
     "growthPercent": 3,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -1310,7 +1302,7 @@
     "growthPercent": 2.2,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -1339,7 +1331,7 @@
     "growthPercent": 4.1,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -1368,7 +1360,7 @@
     "growthPercent": 2,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -1397,7 +1389,7 @@
     "growthPercent": 6,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -1426,7 +1418,7 @@
     "growthPercent": 3.1,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -1455,7 +1447,7 @@
     "growthPercent": 3.7,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -1484,7 +1476,7 @@
     "growthPercent": 2.5,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -1513,7 +1505,7 @@
     "growthPercent": 4.2,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -1542,7 +1534,7 @@
     "growthPercent": 3.3,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -1571,7 +1563,7 @@
     "growthPercent": -2.7,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -1600,7 +1592,7 @@
     "growthPercent": 3.8,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -1629,7 +1621,7 @@
     "growthPercent": 1.4,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -1658,7 +1650,7 @@
     "growthPercent": 4,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -1687,7 +1679,7 @@
     "growthPercent": 9.2,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Oceania",
@@ -1716,7 +1708,7 @@
     "growthPercent": 2.4,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -1745,7 +1737,7 @@
     "growthPercent": 1,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -1774,7 +1766,7 @@
     "growthPercent": 0.9,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -1803,7 +1795,7 @@
     "growthPercent": 2.7,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -1832,7 +1824,7 @@
     "growthPercent": 5.3,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -1861,7 +1853,7 @@
     "growthPercent": 0.8,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -1890,7 +1882,7 @@
     "growthPercent": 4.8,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -1919,7 +1911,7 @@
     "growthPercent": 1.8,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -1948,7 +1940,7 @@
     "growthPercent": 3.1,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -1977,7 +1969,7 @@
     "growthPercent": 3.9,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -2006,7 +1998,7 @@
     "growthPercent": 8.7,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -2035,7 +2027,7 @@
     "growthPercent": 4.9,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -2064,7 +2056,7 @@
     "growthPercent": 16.2,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -2093,7 +2085,7 @@
     "growthPercent": -1.7,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -2122,7 +2114,7 @@
     "growthPercent": 3.3,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -2151,7 +2143,7 @@
     "growthPercent": 2.4,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -2180,7 +2172,7 @@
     "growthPercent": 1.7,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -2209,7 +2201,7 @@
     "growthPercent": 1.9,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -2238,7 +2230,7 @@
     "growthPercent": 6.5,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -2267,7 +2259,7 @@
     "growthPercent": 5,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -2296,7 +2288,7 @@
     "growthPercent": -6.1,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -2325,7 +2317,7 @@
     "growthPercent": -6.8,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -2354,7 +2346,7 @@
     "growthPercent": 2.5,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -2383,7 +2375,7 @@
     "growthPercent": 3.5,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -2412,7 +2404,7 @@
     "growthPercent": 0.5,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -2441,7 +2433,7 @@
     "growthPercent": -1.2,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -2470,7 +2462,7 @@
     "growthPercent": 0.7,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -2499,7 +2491,7 @@
     "growthPercent": 2.7,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -2528,7 +2520,7 @@
     "growthPercent": 4.6,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -2557,7 +2549,7 @@
     "growthPercent": 4.5,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Oceania",
@@ -2586,7 +2578,7 @@
     "growthPercent": 3.1,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -2615,7 +2607,7 @@
     "growthPercent": 1.9,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -2644,7 +2636,7 @@
     "growthPercent": 3.3,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -2673,7 +2665,7 @@
     "growthPercent": -0.6,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -2702,7 +2694,7 @@
     "growthPercent": 6.1,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -2731,7 +2723,7 @@
     "growthPercent": 4,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -2760,7 +2752,7 @@
     "growthPercent": 2.2,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -2789,7 +2781,7 @@
     "growthPercent": 4,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -2818,7 +2810,7 @@
     "growthPercent": 1.1,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -2847,7 +2839,7 @@
     "growthPercent": 5.1,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -2876,7 +2868,7 @@
     "growthPercent": 6.7,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -2905,7 +2897,7 @@
     "growthPercent": 2.9,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -2934,7 +2926,7 @@
     "growthPercent": 1.6,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -2963,7 +2955,7 @@
     "growthPercent": 3,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -2992,7 +2984,7 @@
     "growthPercent": 3.6,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -3021,7 +3013,7 @@
     "growthPercent": 2.2,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -3050,7 +3042,7 @@
     "growthPercent": 4.7,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -3079,7 +3071,7 @@
     "growthPercent": 3,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -3108,7 +3100,7 @@
     "growthPercent": 5.5,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -3137,7 +3129,7 @@
     "growthPercent": 3.7,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Oceania",
@@ -3166,7 +3158,7 @@
     "growthPercent": 3.7,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -3195,7 +3187,7 @@
     "growthPercent": 4.4,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -3224,7 +3216,7 @@
     "growthPercent": 3.4,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -3253,7 +3245,7 @@
     "growthPercent": 1.6,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Oceania",
@@ -3282,7 +3274,7 @@
     "growthPercent": 0.7,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -3311,7 +3303,7 @@
     "growthPercent": 1.9,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -3340,7 +3332,7 @@
     "growthPercent": 5.3,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -3369,7 +3361,7 @@
     "growthPercent": 2.8,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -3398,7 +3390,7 @@
     "growthPercent": 4.9,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -3427,7 +3419,7 @@
     "growthPercent": 0.5,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -3456,7 +3448,7 @@
     "growthPercent": 3,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -3485,7 +3477,7 @@
     "growthPercent": 2.4,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Oceania",
@@ -3514,7 +3506,7 @@
     "growthPercent": 2.1,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -3543,7 +3535,7 @@
     "growthPercent": 3,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -3572,7 +3564,7 @@
     "growthPercent": 1.2,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Oceania",
@@ -3601,7 +3593,7 @@
     "growthPercent": 2.1,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -3630,7 +3622,7 @@
     "growthPercent": 3.8,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -3659,7 +3651,7 @@
     "growthPercent": 6.7,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -3688,7 +3680,7 @@
     "growthPercent": 4.1,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -3717,7 +3709,7 @@
     "growthPercent": 3.1,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -3746,7 +3738,7 @@
     "growthPercent": 1.5,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -3775,7 +3767,7 @@
     "growthPercent": 3.5,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -3804,7 +3796,7 @@
     "growthPercent": 3.6,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Oceania",
@@ -3833,7 +3825,7 @@
     "growthPercent": 3.3,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -3862,7 +3854,7 @@
     "growthPercent": 3.8,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Oceania",
@@ -3891,7 +3883,7 @@
     "growthPercent": 3.8,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -3920,7 +3912,7 @@
     "growthPercent": 4.2,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -3949,7 +3941,7 @@
     "growthPercent": 2.8,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -3978,7 +3970,7 @@
     "growthPercent": 4.1,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -4007,7 +3999,7 @@
     "growthPercent": 3.3,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -4036,7 +4028,7 @@
     "growthPercent": 1.9,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -4065,7 +4057,7 @@
     "growthPercent": -0.1,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -4094,7 +4086,7 @@
     "growthPercent": -8.6,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -4123,7 +4115,7 @@
     "growthPercent": 2.8,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -4152,7 +4144,7 @@
     "growthPercent": 0.7,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -4181,7 +4173,7 @@
     "growthPercent": 1.1,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -4210,7 +4202,7 @@
     "growthPercent": 7.2,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Oceania",
@@ -4239,7 +4231,7 @@
     "growthPercent": 3.2,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -4268,7 +4260,7 @@
     "growthPercent": 1.3,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -4297,7 +4289,7 @@
     "growthPercent": 3.4,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -4326,7 +4318,7 @@
     "growthPercent": 3.1,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -4355,7 +4347,7 @@
     "growthPercent": 2.2,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -4384,7 +4376,7 @@
     "growthPercent": 2.8,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -4413,7 +4405,7 @@
     "growthPercent": 1.5,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -4442,7 +4434,7 @@
     "growthPercent": 4.5,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -4471,7 +4463,7 @@
     "growthPercent": 3.5,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -4500,7 +4492,7 @@
     "growthPercent": 0.6,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -4529,7 +4521,7 @@
     "growthPercent": 2,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Oceania",
@@ -4558,7 +4550,7 @@
     "growthPercent": 2.8,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -4587,7 +4579,7 @@
     "growthPercent": 2.6,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -4616,7 +4608,7 @@
     "growthPercent": 1,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -4645,7 +4637,7 @@
     "growthPercent": 4.1,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -4674,7 +4666,7 @@
     "growthPercent": 2.1,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -4703,7 +4695,7 @@
     "growthPercent": 5,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -4732,7 +4724,7 @@
     "growthPercent": 2,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -4761,7 +4753,7 @@
     "growthPercent": 2,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -4790,7 +4782,7 @@
     "growthPercent": 3,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -4819,7 +4811,7 @@
     "growthPercent": 3.9,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -4848,7 +4840,7 @@
     "growthPercent": 2,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -4877,7 +4869,7 @@
     "growthPercent": 1.3,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -4906,7 +4898,7 @@
     "growthPercent": 3.4,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -4935,7 +4927,7 @@
     "growthPercent": 5.2,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -4964,7 +4956,7 @@
     "growthPercent": 6,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -4993,7 +4985,7 @@
     "growthPercent": 5.9,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -5022,7 +5014,7 @@
     "growthPercent": 1.5,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -5051,7 +5043,7 @@
     "growthPercent": 2.1,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -5080,7 +5072,7 @@
     "growthPercent": 5.1,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -5109,7 +5101,7 @@
     "growthPercent": 5,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Oceania",
@@ -5138,7 +5130,7 @@
     "growthPercent": 2.3,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -5167,7 +5159,7 @@
     "growthPercent": 0.8,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -5196,7 +5188,7 @@
     "growthPercent": 2.1,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -5225,7 +5217,7 @@
     "growthPercent": 3.4,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -5254,7 +5246,7 @@
     "growthPercent": 2.6,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Oceania",
@@ -5283,7 +5275,7 @@
     "growthPercent": 2.5,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -5312,7 +5304,7 @@
     "growthPercent": 7.5,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -5341,7 +5333,7 @@
     "growthPercent": 2,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -5370,7 +5362,7 @@
     "growthPercent": 3.1,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -5399,7 +5391,7 @@
     "growthPercent": 0.8,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -5412,10 +5404,10 @@
     "debtRatioNextYear": 125.8,
     "debtCurrentYear": 38120.4059,
     "debtNextYear": 40738.9714,
-    "debtDiff": 2618.5655,
+    "debtDiff": 3018.5655,
     "debtPcCurrentYear": 111499.0373,
     "debtPcNextYear": 118792.6294,
-    "debtPcDiff": 7293.5921,
+    "debtPcDiff": 8393.5921,
     "gdpPcCurrentYear": 89991.152,
     "gdpPcNextYear": 94429.753,
     "gdpPcDiff": 4438.601,
@@ -5428,7 +5420,7 @@
     "growthPercent": 2.3,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -5457,7 +5449,7 @@
     "growthPercent": 1.8,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -5486,7 +5478,7 @@
     "growthPercent": 6.5,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Oceania",
@@ -5515,7 +5507,7 @@
     "growthPercent": 3.5,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Americas",
@@ -5544,7 +5536,7 @@
     "growthPercent": 4,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -5573,7 +5565,7 @@
     "growthPercent": 7.1,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -5602,7 +5594,7 @@
     "growthPercent": -22.9,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Asia",
@@ -5631,7 +5623,7 @@
     "growthPercent": 0.5,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -5660,7 +5652,7 @@
     "growthPercent": 4.3,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Africa",
@@ -5689,7 +5681,7 @@
     "growthPercent": 5,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   },
   {
     "region": "Europe",
@@ -5718,6 +5710,6 @@
     "growthPercent": -0.4,
     "noteYear": 2026,
     "epochStartMilli": 1767225600000,
-    "epochDate": "jun 6, 2026"
+    "epochDate": "Jan 1, 2026"
   }
 ]
